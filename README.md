@@ -10,3 +10,5 @@ Created by: Sérgio Moro (ISCTE-IUL), Paulo Cortez (Univ. Minho) and Paulo Rita 
 
 We analyzed data from a bank’s marketing campaigns to predict whether clients would subscribe to a term deposit. We employed various models, including logistic regression, ridge regression, random forest, and xgboost. Ridge regression exhibited the best performance with zero miss-classification, while others had miss-classification rates around 15%. The company can optimize its marketing campaigns by strategically determining the frequency of customer contacts, focusing on the most influential factors such as economic indicators and campaign-related features. For example, people who are older than 60 years old are more likely to get a subscription than younger, so contact them or focusing our campaign to this group like creating another benefits for them might increased the number of subscribers.
 
+[Report](https://ceberriosm.github.io/Bank-Marketing/)
+
